@@ -1,0 +1,10 @@
+{
+  "name": "材料构配件刷题",
+  "short_name": "构配件刷题",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "lang": "zh-CN",
+  "description": "材料构配件检测题库刷题、错题、间隔复习与跨设备同步"
+}
